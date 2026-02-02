@@ -1,16 +1,37 @@
-## Hi there 👋
+```text
+╔════════════════════════════════════╗
+║        Hi, I'm Gabriel Cardacci    ║
+╚════════════════════════════════════╝
+```
 
-<!--
-**cardacci/cardacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Principal Frontend Engineer** with a strong product mindset  
+⚛️ React / TypeScript / Modern Frontend Architectures  
+🧠 Clean code, DX, scalability & long-term maintainability  
+🌍 Remote-first · Open to global opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Citizenship & Mobility
+- 🇦🇷 Argentine & 🇱🇹 Lithuanian citizen
+- ✅ Eligible to relocate and work worldwide
+
+---
+
+### 💡 What I do
+- Design and own frontend architectures (from MVPs to scale)
+- Define coding standards and best practices (human + AI-friendly)
+- Lead technical decisions with real business impact
+- Mentor engineers and raise engineering quality
+- Collaborate closely with product and design
+
+---
+
+### 🛠️ Tech Stack
+`React` · `TypeScript` · `Next.js` · `State Management`  
+`Design Systems` · `CSS Architecture` · `CI/CD`
+
+---
+
+📫 **Contact**
+- LinkedIn: https://www.linkedin.com/in/cardacci/
+- Location: Argentina 🇦🇷 | Open to worldwide relocation 🌍
