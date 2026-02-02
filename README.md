@@ -1,6 +1,6 @@
 ```text
 ╔════════════════════════════════════╗
-║        Hi, I'm Gabriel Cardacci    ║
+║      Hi, I'm Gabriel Cardacci      ║
 ╚════════════════════════════════════╝
 ```
 
@@ -26,9 +26,8 @@
 
 ---
 
-### 🛠️ Tech Stack
-`React` · `TypeScript` · `Next.js` · `State Management`  
-`Design Systems` · `CSS Architecture` · `CI/CD`
+### 🧠 Skills
+`Technical Leadership` · `Frontend Architecture` · `React` · `TypeScript` · `State Management` · `Design Systems` · `CSS Architecture` · `CI/CD` · `DX & Maintainability`
 
 ---
 
