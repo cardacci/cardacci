@@ -32,5 +32,5 @@
 ---
 
 📫 **Contact**
-- LinkedIn: https://www.linkedin.com/in/cardacci/
-- Location: Argentina 🇦🇷 | Open to worldwide relocation 🌍
+- [LinkedIn](https://www.linkedin.com/in/cardacci/)
+- [Website](https://cardacci.github.io/i/)
