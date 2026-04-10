@@ -69,8 +69,6 @@ Currently building at **Cashea**, a platform designed to serve millions of users
 - Mentor engineers and raise engineering quality across teams
 - Collaborate closely with product, backend, and design
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=100&section=footer" width="100%" />
