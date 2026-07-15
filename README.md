@@ -13,11 +13,11 @@
 
 ### 👋 About me
 
-Product-minded Senior Frontend Engineer with 12+ years of experience scaling products from early-stage MVPs to production-grade platforms, including a fintech that grew to 50,000+ users and processed 20M+ financial transactions. Currently building a financial platform to serve 10M+ users across Latin America.
+Product-minded Senior Frontend Engineer with 12+ years of experience scaling products from early-stage MVPs to production-grade platforms, including a fintech I joined as a founding engineer that grew to 50,000+ users and 20M+ financial transactions. Currently building a React Native fintech platform serving 10M+ users across Latin America.
 
-I combine hands-on frontend expertise with strong ownership in architecture, system design, and delivery. I work closely with product and backend teams, contribute to hiring, mentor engineers, and establish standards that enable teams to ship faster with confidence.
+I combine hands-on React/TypeScript expertise with strong ownership in architecture, system design, and delivery: shipping native iOS/Android apps with Capacitor, building white-label platforms, introducing E2E testing with Playwright, and mentoring engineers to senior level. I work closely with product and backend teams, contribute to hiring, and establish standards that help teams ship with confidence.
 
-Dual citizenship (Argentina 🇦🇷 & Lithuania 🇱🇹), open to international and remote roles.
+Dual citizenship: Argentina 🇦🇷 & Lithuania 🇱🇹 (EU citizen), open to international and remote roles.
 
 Always open to connecting, feel free to reach out.
 
@@ -27,11 +27,12 @@ Always open to connecting, feel free to reach out.
 
 <div align="center">
 
-**Mobile & Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -47,6 +48,11 @@ Always open to connecting, feel free to reach out.
 ![Stylus](https://img.shields.io/badge/Stylus-333333?style=flat-square&logo=stylus&logoColor=white)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
+**Testing**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
 **Tools & Infrastructure**
 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
@@ -60,11 +66,11 @@ Always open to connecting, feel free to reach out.
 
 ### 💡 What I do
 
-- Design and own frontend architectures, from MVPs to scale
-- Define coding standards and best practices for developers and AI agents
-- Lead technical decisions with real business impact
-- Mentor engineers and raise engineering quality across teams
-- Collaborate closely with product, backend, and design
+- Design and own frontend architectures, from MVPs to platforms at scale
+- Ship web products to iOS and Android with Capacitor, including native API integrations
+- Build white-label platforms and shared component libraries used across teams
+- Improve performance where users feel it: bundle size, load times, offline-first caching
+- Mentor engineers, contribute to hiring, and define standards for developers and AI agents
 
 <div align="center">
 
